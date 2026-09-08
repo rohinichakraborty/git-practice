@@ -1,0 +1,4 @@
+TP53
+NCBI Gene ID: 7157
+UniProt: P04637
+PDB: 37ZA
